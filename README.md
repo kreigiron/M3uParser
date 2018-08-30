@@ -1,4 +1,4 @@
-#Spotisync
+# Spotisync
 
 ## Purpose
 This script intends to sync a local m3u file that points to actual mp3 files on the filesystem, and upload to a spotify playlist which may contains the same tracks.
@@ -13,3 +13,5 @@ This script intends to sync a local m3u file that points to actual mp3 files on 
 
 ## License
 [https://www.gnu.org/licenses/gpl-3.0.txt] 
+
+Some code was based on https://github.com/dvndrsn/M3uParser (unlicensed)
